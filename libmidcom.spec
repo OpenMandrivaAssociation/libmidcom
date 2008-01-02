@@ -11,6 +11,7 @@ URL:		http://www.ranchnetworks.com/
 Source0:	http://ftp.digium.com/pub/telephony/asterisk/%{name}-%{version}.tar.bz2
 BuildRequires:	openssl-devel
 BuildRequires:	dos2unix
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 The MIDCOM SIMCO protocol and Timer library
