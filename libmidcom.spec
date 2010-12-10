@@ -4,7 +4,7 @@
 Summary:	The MIDCOM SIMCO protocol and Timer library
 Name:		libmidcom
 Version:	0.1.0
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		System/Libraries
 License:	GPL
 URL:		http://www.ranchnetworks.com/
