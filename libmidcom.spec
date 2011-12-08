@@ -40,7 +40,7 @@ files.
 %setup -q -n %{name}-%{version}
 
 # strip away annoying ^M
-find -type f | grep -v ".gif" | grep -v ".png" | grep -v ".jpg" | xargs dos2unix -U
+find -type f | grep -v ".gif" | grep -v ".png" | grep -v ".jpg" | xargs dos2unix
 
 %build
 
