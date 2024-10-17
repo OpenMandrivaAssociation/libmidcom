@@ -7,7 +7,7 @@ Version:	0.1.0
 Release:	%mkrel 6
 Group:		System/Libraries
 License:	GPL
-URL:		http://www.ranchnetworks.com/
+URL:		https://www.ranchnetworks.com/
 Source0:	http://ftp.digium.com/pub/telephony/asterisk/%{name}-%{version}.tar.bz2
 BuildRequires:	openssl-devel
 BuildRequires:	dos2unix
